@@ -4509,3 +4509,12 @@ header {
     color: #fff;
     margin-bottom: 92px;
 }
+
+
+
+@media (min-width: 992px) {
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 2.5rem;
+        padding-left: 2.5rem;
+    }
+}
