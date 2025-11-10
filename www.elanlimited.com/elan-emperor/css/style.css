@@ -387,7 +387,7 @@ body {
 
     text-transform: uppercase;
 
-    margin-bottom: 15px;
+    margin-bottom: 80px;
 
 }
 
@@ -2158,6 +2158,7 @@ a:hover {
     line-height: 1.316em;
 
     font-family: "Libre Caslon Display", serif;
+    margin-bottom: 58px;
 
 }
 
@@ -4320,7 +4321,7 @@ header {
     color: #f0f0f0;
     /* light text */
     padding: 150px 24px;
-    
+
     /* custom footer height */
     font-family: 'Poppins', sans-serif;
 }
@@ -4490,3 +4491,21 @@ header {
     font-size: 20px;
 }
 
+
+.mar_bottom {
+    margin-bottom: 15px !important;
+}
+
+@media (min-width: 1024px) {
+    .title .title-span {
+        margin-bottom: 12px;
+    }
+}
+
+
+.title h2 {
+    font-family: "Libre Caslon Display", serif;
+    font-size: 45px;
+    color: #fff;
+    margin-bottom: 92px;
+}
