@@ -4427,3 +4427,8 @@ header {
     }
 
 }
+
+
+.cursor_pointer_this {
+    cursor: pointer !important;
+}
